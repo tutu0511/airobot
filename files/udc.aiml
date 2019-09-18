@@ -12,4 +12,8 @@
             <pattern>_ç¾åº¦ä¸_</pattern>
             <template>url:http://wap.baidu.com/s?word=<star index="2" /></template>
         </category>
-    </aiml>
+    <category>
+    <pattern>ä½ å¥½</pattern>
+    <template>ããé»é»ãé»ããå¿å¿å¿å¿ãå¿å¿ããå¿å¿å¿</template>
+</category>
+</aiml>
