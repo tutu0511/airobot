@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <aiml>
+        <category>
+            <pattern>ä»å¤©å¤©æ°£æºå¥½*</pattern>
+            <template>æ¯åï¼æéè£¡ä¸é¨äºãè¦æ¯æ²ä¸é¨ï¼æå°±åºå»ç©äºï¼</template>
+        </category>
+        <category>
+            <pattern>_å¤©æ°£_</pattern>
+            <template>url:http://wap.baidu.com/s?word=<star index="1" />å¤©æ°£</template>
+        </category>
+        <category>
+            <pattern>_ç¾åº¦ä¸_</pattern>
+            <template>url:http://wap.baidu.com/s?word=<star index="2" /></template>
+        </category>
+    </aiml>
